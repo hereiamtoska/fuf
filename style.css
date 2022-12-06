@@ -1,0 +1,314 @@
+body {
+    font-family: 'Didact Gothic';
+}
+
+#header {
+    position: absolute;
+width: 1440px;
+height: 113.68px;
+left: 0px;
+top: -0.55px;
+
+background: #8C2E2E
+}
+
+#logo {
+    position: absolute;
+width: 115px;
+height: 88px;
+left: 64px;
+top: 15px;
+}
+
+#r14 {
+    position: absolute;
+    width: 45px;
+    height: 21px;
+    left: 926px;
+    top: 39px;
+    
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
+#img3 {
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 856px;
+top: 39px;
+}
+#img2 {
+    position: absolute;
+width: 427px;
+height: 34px;
+left: 901px;
+top: 34px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+}
+#header2 {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+white-space: 26px;
+padding-left: 185px;
+    padding-right: 881px;
+position: absolute;
+width: 374px;
+height: 31px;
+color: white;
+top: 40px;
+}
+
+
+#green1 {
+    position: absolute;
+width: 303.16px;
+height: 550px;
+left: 0px;
+top: 397.34px;
+
+background:#8C2E2E;
+border-radius: 0px;
+}
+
+#green2 {
+    position: absolute;
+width: 303px;
+height: 800px;
+left: 1137px;
+top: 113px;
+
+background: #8C2E2E
+}
+#green3 {
+    position: absolute;
+width: 303.16px;
+height: 500px;
+left: 0px;
+top: 113.13px;
+
+background: #8C2E2E;
+border-radius: 0px;
+}
+
+#about {
+    position: absolute;
+width: 201px;
+height: 65px;
+left: 619.58px;
+top: 151.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 43.579px;
+line-height: 65px;
+
+color: #000000;
+}
+#inform {
+    position: absolute;
+    width: 506px;
+    height: 40px;
+    left: 467px;
+    top: 236px;
+    
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.9474px;
+    line-height: 25px;
+    text-align: center;
+    
+    color: #000000;
+}
+#lideri {
+    position: absolute;
+width: 268px;
+height: 65px;
+left: 594.95px;
+top: 332.92px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 43.579px;
+line-height: 65px;
+
+color: #000000;
+}
+#bandera {
+    height: 190px;
+    width: 222.42063903808594px;
+    left: 353px;
+    top: 458px;
+    border-radius: 0px;
+    
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 36px;
+        /* identical to box height */
+        
+        
+        color: #000000;
+
+}
+
+#shuhevich {
+    position: absolute;
+width: 159.16px;
+height: 28px;
+left: 640px;
+top: 787px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18.9474px;
+line-height: 28px;
+
+color: #000000;
+
+}
+#konovalets{
+    position: absolute;
+width: 159.16px;
+height: 56px;
+left: 953px;
+top: 773px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18.9474px;
+line-height: 28px;
+
+color: #000000;
+}
+
+#bandera {
+    position: absolute;
+width: 152px;
+height: 215px;
+left: 335px;
+top: 516px;
+
+}
+
+#shuhevich {
+    position: absolute;
+    width: 152px;
+    height: 215px;
+    left: 644px;
+    top: 512px;
+}
+
+#konovalets {
+    position: absolute;
+width: 152px;
+height: 215px;
+left: 944px;
+top: 516px;
+}
+
+#site {
+    position: absolute;
+width: 107px;
+height: 35px;
+left: 43.58px;
+top: 149.13px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+color: #FFFFFF;
+}
+#diyachi {
+    position: absolute;
+width: 154px;
+height: 35px;
+left: 43.58px;
+top: 211.66px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#file {
+    position: absolute;
+width: 154px;
+height: 35px;
+left: 43.58px;
+top: 274.18px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#contacts {
+    position: absolute;
+width: 112px;
+height: 35px;
+left: 43.58px;
+top: 336.71px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+#footer {
+    position: absolute;
+width: 1440px;
+height: 200px;
+left: 0px;
+top: 912px;
+
+background: #1A1A20;}
+#f {
+    position: absolute;
+width: 159px;
+height: 60px;
+left: 721px;
+top: 861px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+color: #FFFFFF;
+}

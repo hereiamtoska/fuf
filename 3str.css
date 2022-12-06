@@ -1,0 +1,307 @@
+body {
+    font-family: 'Didact Gothic';
+}
+
+#header {
+    position: absolute;
+width: 1440px;
+height: 113.68px;
+left: 0px;
+top: -0.55px;
+
+background: #8C2E2E
+}
+
+#logo {
+    position: absolute;
+width: 115px;
+height: 88px;
+left: 64px;
+top: 15px;
+}
+
+#r14 {
+    position: absolute;
+    width: 45px;
+    height: 21px;
+    left: 926px;
+    top: 39px;
+    
+    font-family: 'Didact Gothic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+}
+#img3 {
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 856px;
+top: 39px;
+}
+#img2 {
+    position: absolute;
+width: 427px;
+height: 34px;
+left: 901px;
+top: 34px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+}
+#header2 {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+white-space: 26px;
+padding-left: 185px;
+    padding-right: 881px;
+position: absolute;
+width: 374px;
+height: 31px;
+color: white;
+top: 40px;
+}
+
+#dodatkovo {
+    position: absolute;
+width: 686px;
+height: 178px;
+left: 525px;
+top: 337px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+
+color: #000000;
+}
+
+#sendfile {
+    position: absolute;
+width: 770px;
+height: 164px;
+left: 335px;
+top: 479px;
+}
+
+#green1 {
+    position: absolute;
+width: 303.16px;
+height: 550px;
+left: 0px;
+top: 397.34px;
+
+background:#8C2E2E;
+border-radius: 0px;
+}
+
+#green2 {
+    position: absolute;
+width: 303px;
+height: 800px;
+left: 1137px;
+top: 113px;
+
+background: #8C2E2E
+}
+#green3 {
+    position: absolute;
+width: 303.16px;
+height: 500px;
+left: 0px;
+top: 113.13px;
+
+background: #8C2E2E;
+border-radius: 0px;
+}
+
+#site {
+    position: absolute;
+width: 107px;
+height: 35px;
+left: 43.58px;
+top: 149.13px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+color: #FFFFFF;
+}
+#diyachi {
+    position: absolute;
+width: 154px;
+height: 35px;
+left: 43.58px;
+top: 211.66px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#file {
+    position: absolute;
+width: 154px;
+height: 35px;
+left: 43.58px;
+top: 274.18px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#contacts {
+    position: absolute;
+width: 112px;
+height: 35px;
+left: 43.58px;
+top: 336.71px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 26.3748px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#texxxt {
+    position: absolute;
+width: 763px;
+height: 117px;
+left: 335px;
+top: 250px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+
+color: #000000;
+}
+
+ #rectangle15 {
+    position: absolute;
+width: 770px;
+height: 71px;
+left: 335px;
+top: 450px;
+
+background: #D9D9D9;
+border-radius: 20px;
+ }
+ #recctangle15 {
+    position: absolute;
+width: 173px;
+height: 31px;
+left: 372px;
+top: 470px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+ }
+ #rectangle16 {
+    position: absolute;
+width: 237px;
+height: 71px;
+left: 868px;
+top: 450px;
+
+background: #8C2E2E;
+border-radius: 0px 20px 20px 0px;
+ }
+#recctangle16 {
+    position: absolute;
+width: 142px;
+height: 31px;
+left: 927px;
+top: 470px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+#rectangle17 {
+    position: absolute;
+width: 237px;
+height: 71px;
+left: 602px;
+top: 615px;
+
+background: #8C2E2E;
+border-radius: 20px;
+}
+#recctangle17 {
+    position: absolute;
+width: 123px;
+height: 31px;
+left: 659px;
+top: 635px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF
+}
+
+#footer {
+    position: absolute;
+width: 1440px;
+height: 200px;
+left: 0px;
+top: 820px;
+
+background: #1A1A20;}
+#f {
+    position: absolute;
+width: 159px;
+height: 60px;
+left: 620px;
+top: 850px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+color: #FFFFFF;
+}
